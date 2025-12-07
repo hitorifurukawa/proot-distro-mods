@@ -1,5 +1,5 @@
 # Introduction:
-This repository provides detailed tutorials for using the proot-distro utility and provide modifications for the proot-distro utility.
+This repository provides detailed tutorials for using the proot-distro utility and provide modifications.
 
 ## Prerequisites of the project
 <details><strong><summary>Install requirements</strong></summary>
