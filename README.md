@@ -153,7 +153,7 @@ d. paste the sha256 output to the "TARBALL_SHA256" of the respective distributio
 These are mods created by the host of this repository, Hitomi Nikki. The installation is automatic and only requires to enter just one or few commands to install. The scripts are free to use and free to view.
 ### Add mirror links for older releases of distributions
 > [!NOTE]
-> As of currently... this mod only has Debian Bullseye.
+> As of currently... this mod only has Debian Bullseye and Bookworm, some versions of Fedora and Ubuntu.
 1. Type this command:
 ```
 wget https://raw.githubusercontent.com/ImCompleteOpposite/proot-distro-mods/refs/heads/main/mods/addsomedistro/addsomedistro.sh
