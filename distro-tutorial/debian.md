@@ -1,7 +1,13 @@
 # This tutorial is for Debian!
 - This tutorial was made in Debian 12 (Bookworm)
-- This tutorial is expected to work with later versions of Debian (such as Debian 13, Trixie)
-- This tutorial is also expected to work with previous versions of Debian (such as Debian 11, Bullseye)
+- This tutorial is expected to work with previous versions of Debian (such as Debian 11, Bullseye)
+- Unfortunately, this tutorial is not functional on Debian 13 (Trixie)
+
+## Note
+Please apply the addsomedistro patch from the parent directory first beforehand!
+and replace all "debian" in the commands with "debookworm" or "debullseye" to point out the Debian versions that are supported with this tutorial.
+
+Currently working on a workaround supporting Debian 13!
 
 ## Installing Debian
 Use the following command to install the latest stable release of Debian:
